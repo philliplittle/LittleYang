@@ -1,0 +1,22 @@
+#Controller 01
+117.121.244.150	cntl6501.gplhost.com	cntl6501
+#Controller 02
+117.121.244.149	cntl6502.gplhost.com	cntl6502
+#LoadBalancer 01
+117.121.244.148	load6501.gplhost.com	load6501
+#LoadBalancer 02
+117.121.244.147	load6502.gplhost.com	load6502
+#Compute 01
+117.121.244.146	comp6501.gplhost.com	comp6501
+#Compute 02
+117.121.244.145	comp6502.gplhost.com	comp6502
+#Storage 01
+117.121.244.144	stor6501.gplhost.com	stor6501
+#Storage 02
+117.121.244.143	stor6502.gplhost.com	stor6502
+#Storage 03
+117.121.244.142	stor6503.gplhost.com	stor6503
+#SQL 01
+117.121.244.141	sqls6501.gplhost.com	sqls6501
+#SQL 02
+117.121.244.140	sqls6502.gplhost.com	sqls6502
